@@ -28,12 +28,6 @@ sudo systemd-resolve --statistics
 
 ## Tachyons Development Kit                                                                                                                  
                                                                                                                                             
-<div style="padding-top:10px; padding-bottom:0px; padding-left:24px; font-family: &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, Arial, sans-serif; color: #444; font-size:26px; font-weight:300">                                                                                                                                             
-                                                                                                                                                        
-tachyons                                                                                                                                                
-                                                                                                                                                                      
-</div>                                                                                                                                                                
-                                                                                                                                                                      
 <div style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">                                                                              
                                                                                                                                                                                        
 ![](https://www.google.com/s2/favicons?domain=tachyons.io) [TACHYONS -                                                                                                                 
