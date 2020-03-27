@@ -50,3 +50,6 @@ suggestions](https://github.com/glippi/tachyons-vim)
 
 </div>
 
+## Storing Passwords
+
+`hash` and `salt`
